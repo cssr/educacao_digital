@@ -10,7 +10,7 @@ Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac0830
 
 ## Características da Sociedade em Rede
 
-{% include elements/figure.html image="/portfolYOU/assets/img1.png" caption="iOS" %}
+![Alt text](/portfolYOU/assets/img1.png "Características da Sociedade em Rede")
 
 A sociedade em rede, como descrita por Manuel Castells, é marcada por uma revolução tecnológica centrada nas tecnologias de informação e comunicação. Essa transformação impacta profundamente a forma como vivemos, trabalhamos e nos relacionamos. A globalização e a conectividade passaram a moldar não apenas as interações sociais, mas também os processos econômicos e culturais. Nesse contexto, o conhecimento e a informação assumem um papel central, sendo usados de forma imediata para gerar novos saberes e inovações. Isso deu origem ao que chamamos de "sociedade de aprendizagem", onde pensar criticamente, aprender continuamente e inovar são habilidades essenciais.
 
