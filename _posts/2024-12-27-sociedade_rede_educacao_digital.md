@@ -6,7 +6,7 @@ color:
 description: Analisar características da sociedade atual e os processos que aí imbricam, ancoradas, sobretudo, na análise de Manuel Castells, a qual não só procura  dar conta das mudanças sociais ocorridas no final do século XX, como também pretende analisar os desafios que as referidas mudanças implicam a nível da criação de novos ecossistemas educacionais.
 ---
 
-Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
+[comment]:Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
 
 ## Características da Sociedade em Rede
 
@@ -22,6 +22,8 @@ Em resumo, a sociedade em rede não apenas transformou como interagimos, mas tam
 
 
 ## Impactos Educativos
+
+![Alt text](/assets/img2.png "Impactos Educativos")
 
 A sociedade em rede trouxe desafios e oportunidades significativas para a educação. Os modelos tradicionais de ensino, centrados em currículos rígidos e métodos pré-digitais, já não conseguem atender às demandas de um mundo conectado e em constante transformação. É essencial repensar a forma como ensinamos e aprendemos, integrando os espaços digitais às práticas pedagógicas. Isso vai além de usar tecnologias como ferramentas de apoio; trata-se de criar ambientes educativos que incentivem a colaboração, a criatividade e a conexão com o mundo real.
 
