@@ -117,7 +117,7 @@ Este artigo foca-se em três pontos principais:
 <h4>Considerações:</h4>
 <br>
 <ul>
-<li> Educação Híbrida e Flexível: O conceito de Educação OnLIFE é inovador, mas o foco em práticas conectivas e ecossistemas não contempla suficientemente o papel do aprendizado móvel, microcertificações e lifelong learning em um mundo onde a educação é cada vez mais personalizada e on-demand.</li>
+<li> Educação Híbrida e Flexível: O conceito de Educação OnLIFE é inovador, mas o foco em práticas conectivas e ecossistemas não contempla suficientemente o papel de aprendizagem móvel, microcertificações e lifelong learning num mundo onde a educação é cada vez mais personalizada e on-demand.</li>
 <li>Covid-19: Durante a pandemia, muitos dos desafios mencionados nos artigos, como a falta de competências digitais e a adaptação às tecnologias, foram acelerados. No entanto, a experiência global com educação remota destacou limitações importantes não abordadas:</li>
 <ul>
 <li>Fadiga digital entre alunos e professores.</li>
