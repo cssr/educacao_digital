@@ -15,7 +15,7 @@ description: Analisar características da sociedade atual e os processos que aí
 ## Características da Sociedade em Rede
 
 
-<img src="https://cssr.github.io/educacao_digital/assets/img1.png" alt="Características da Sociedade em Rede" style="width:50%;"/>
+<img src="https://cssr.github.io/educacao_digital/assets/img1.png" alt="Características da Sociedade em Rede" style="width:70%;"/>
 
 <p>A sociedade em rede, como descrita por Manuel Castells, é marcada por uma revolução tecnológica centrada nas tecnologias de informação e comunicação. Essa transformação impacta profundamente a forma como vivemos, trabalhamos e nos relacionamos. A globalização e a conectividade passaram a moldar não apenas as interações sociais, mas também os processos econômicos e culturais. Nesse contexto, o conhecimento e a informação assumem um papel central, sendo usados de forma imediata para gerar novos saberes e inovações. Isso deu origem ao que chamamos de "sociedade de aprendizagem", onde pensar criticamente, aprender continuamente e inovar são habilidades essenciais.</p>
 
@@ -28,7 +28,7 @@ description: Analisar características da sociedade atual e os processos que aí
 
 ## Impactos Educativos
 
-<img src="https://cssr.github.io/educacao_digital/assets/img2.png" alt="Impactos Educativos" style="width:50%;"/>
+<img src="https://cssr.github.io/educacao_digital/assets/img2.png" alt="Impactos Educativos" style="width:70%;"/>
 
 <p>A sociedade em rede trouxe desafios e oportunidades significativas para a educação. Os modelos tradicionais de ensino, centrados em currículos rígidos e métodos pré-digitais, já não conseguem atender às demandas de um mundo conectado e em constante transformação. É essencial repensar a forma como ensinamos e aprendemos, integrando os espaços digitais às práticas pedagógicas. Isso vai além de usar tecnologias como ferramentas de apoio; trata-se de criar ambientes educativos que incentivem a colaboração, a criatividade e a conexão com o mundo real.</p>
 
