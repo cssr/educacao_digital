@@ -46,21 +46,27 @@ description: Analisar características da sociedade atual e os processos que aí
 
 ## Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância
 
+<br>
 Este artigo tem como premisa dois conceitos principais:
-<p>1. Sociedade em rede: A integração das tecnologias digitais está a transformar os paradigmas educacionais, exigindo competências transversais como resolução de problemas e trabalho colaborativo.
-2. Modelos pedagógicos: O Modelo Pedagógico Virtual da Universidade Aberta centra-se no estudante e na interacção flexível em ambientes digitais. O Community Inquiry destaca três elementos fundamentais: presença cognitiva, presença social e presença de ensino.</p>
+<p>1. Sociedade em rede: A integração das tecnologias digitais está a transformar os paradigmas educacionais, exigindo competências transversais como resolução de problemas e trabalho colaborativo.</p>
+<p>2. Modelos pedagógicos: O Modelo Pedagógico Virtual da Universidade Aberta centra-se no estudante e na interacção flexível em ambientes digitais. O Community Inquiry destaca três elementos fundamentais: presença cognitiva, presença social e presença de ensino.</p>
 
-<br>
+
 Sumários dos resultados:
-<p>1. Primeira actividade:
-* Os estudantes realizaram análises estatísticas em fóruns orientados pela docente.
-* A docente teve um papel predominante no início, promovendo compromisso e criando a base para a comunidade.</p>
-<br>
-<p>2. Segunda actividade:
-* Incluiu discussões em fóruns e trabalhos individuais.
-* interação entre os estudantes aumentou, com menor dependência da docente.</p>
-<br>
-<p>3. Terceira actividade:
+<p>1. Primeira actividade:</p>
+<ul>
+<li>Os estudantes realizaram análises estatísticas em fóruns orientados pela docente.</li>
+<li> A docente teve um papel predominante no início, promovendo compromisso e criando a base para a comunidade.</li>
+</ul>
+
+<p>2. Segunda actividade:</p>
+<ul>
+<li>Incluiu discussões em fóruns e trabalhos individuais.</li>
+<li>interação entre os estudantes aumentou, com menor dependência da docente.</li>
+</ul>
+
+<p>3. Terceira actividade:</p>
+
 * Trabalho em grupo com fóruns dedicados.
 * Estudantes demonstraram maior autonomia, organização e coesão dentro dos grupos.
 
