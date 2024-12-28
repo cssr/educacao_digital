@@ -1,8 +1,8 @@
 ---
 title: Pedagogia e Aprendizagem Digital
 tags: [Social Media, Internet, Technology, Educação]
-style: 
-color: 
+style: fill
+color: secondary
 description: TODO
 ---
 
