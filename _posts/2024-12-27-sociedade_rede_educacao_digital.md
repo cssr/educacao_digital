@@ -8,6 +8,10 @@ description: Analisar características da sociedade atual e os processos que aí
 
 [comment]:Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
 
+<details>
+
+<summary> Sociedade em Rede e os Novos Desafios da Educação </summary>
+
 ## Características da Sociedade em Rede
 
 
@@ -34,3 +38,23 @@ A educação precisa ir além de simplesmente preparar os alunos para o mercado 
 
 Portanto, a transformação da educação na sociedade em rede não se limita à adoção de ferramentas digitais. É uma mudança de mentalidade, que redefine os papéis de professores e estudantes, além de exigir currículos flexíveis e abertos à colaboração e ao aprendizado contínuo. A escola deve se tornar um espaço onde as competências do século XXI possam ser desenvolvidas, preparando os indivíduos para viver e prosperar em um mundo cada vez mais interconectado.
 
+</details>
+
+<details>
+
+<summary> A Realidade Hiperconectada e a Educação Online </summary>
+
+</details>
+
+
+<details>
+
+<summary> O Paradigma da Educomunicaçao </summary>
+
+</details>
+
+<details>
+
+<summary> Inovação em Educação Digital </summary>
+
+</details>
