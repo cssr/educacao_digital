@@ -141,100 +141,148 @@ Este artigo foca-se em três pontos principais:
 
 <br>
 
-# Comparação entre o Paradigma da Educomunicação e os MOOCs
+<h3> Comparação entre o Paradigma da Educomunicação e os MOOCs </h3>
 
-## 1. Abordagens: Filosofia e Objetivo
+<br>
 
-### **Educomunicação**
-- **Filosofia:** Centra-se no diálogo, na interação e na participação ativa, valorizando a co-construção do conhecimento e a reflexão crítica.
-- **Objetivo:** Democratizar a educação e promover o letramento comunicacional, utilizando meios e tecnologias para empoderar os participantes e fomentar cidadania.
+<p>1. Abordagens: Filosofia e Objetivo</p>
 
-### **MOOCs**
-- **Filosofia:** Baseiam-se na democratização do acesso à educação de qualidade, muitas vezes disponibilizando conteúdos de instituições de renome para um público alargado.
-- **Objetivo:** Tornar o ensino acessível a todos, independentemente da localização geográfica ou contexto socioeconómico, promovendo a aprendizagem autodirigida.
+<ul>
+<li>Educomunicação:
+  <ul>
+  <li>Filosofia: Centra-se no diálogo, na interação e na participação ativa, valorizando a co-construção do conhecimento e a reflexão crítica.</li>
+  <li>Objetivo: Democratizar a educação e promover o letramento comunicacional, utilizando meios e tecnologias para empoderar os participantes e fomentar cidadania.</li>
+  </ul>
+</li>
 
-### **Comparação**
-- Ambas valorizam o uso de tecnologias para alargar o acesso à educação.
-- A Educomunicação enfatiza a participação ativa e crítica, enquanto os MOOCs, especialmente nos seus primórdios, focavam mais na disseminação de conteúdos (com menor ênfase na interação).
+<li>MOOCs:
+  <ul>
+  <li>Filosofia: Baseiam-se na democratização do acesso à educação de qualidade, muitas vezes disponibilizando conteúdos de instituições de renome para um público alargado.</li>
+  <li>Objetivo: Tornar o ensino acessível a todos, independentemente da localização geográfica ou contexto socioeconómico, promovendo a aprendizagem autodirigida.</li>
+  </ul>
+</li>
+
+<li>Comparação:
+  <ul>
+  <li>Ambas valorizam o uso de tecnologias para alargar o acesso à educação.</li>
+  <li>A Educomunicação enfatiza a participação ativa e crítica, enquanto os MOOCs, especialmente nos seus primórdios, focavam mais na disseminação de conteúdos (com menor ênfase na interação).</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
 ## 2. Metodologias e Práticas
 
-### **Educomunicação**
-- Propõe a produção colaborativa de conteúdos mediáticos, análise crítica de materiais e diálogo contínuo entre educadores e aprendentes.
-- Integra metodologias ativas com diversas linguagens (texto, áudio, vídeo) para construir conhecimento de forma coletiva.
+<ul>
+<li>Educomunicação:
+  <ul>
+  <li>Propõe a produção colaborativa de conteúdos mediáticos, análise crítica de materiais e diálogo contínuo entre educadores e aprendentes.</li>
+  <li>Integra metodologias ativas com diversas linguagens (texto, áudio, vídeo) para construir conhecimento de forma coletiva.</li>
+  </ul>
+</li>
 
-### **MOOCs**
-- Oferecem conteúdos estruturados, como vídeos, leituras e questionários, muitas vezes complementados com fóruns para interação entre os participantes.
-- Utilizam plataformas escaláveis, mas com menor interação personalizada (especialmente nos modelos iniciais).
+<li>MOOCs:
+  <ul>
+  <li>Oferecem conteúdos estruturados, como vídeos, leituras e questionários, muitas vezes complementados com fóruns para interação entre os participantes.</li>
+  <li>Utilizam plataformas escaláveis, mas com menor interação personalizada (especialmente nos modelos iniciais).</li>
+  </ul>
+</li>
 
-### **Comparação**
-- A Educomunicação favorece processos mais horizontais e colaborativos, enquanto os MOOCs frequentemente seguem um modelo mais linear e autodirigido.
+<li>Comparação:
+  <ul>
+  <li>A Educomunicação favorece processos mais horizontais e colaborativos, enquanto os MOOCs frequentemente seguem um modelo mais linear e autodirigido.</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
 ## 3. Vantagens
 
-### **Educomunicação**
-- Promove competências como pensamento crítico, criatividade e letramento mediático.
-- Incentiva a construção de conhecimento adaptado a realidades locais e culturais.
-- Facilita a criação de comunidades de aprendizagem inclusivas.
+<ul>
+<li>Educomunicação:
+  <ul>
+  <li>Promove competências como pensamento crítico, criatividade e letramento mediático.</li>
+  <li>Incentiva a construção de conhecimento adaptado a realidades locais e culturais.</li>
+  <li>Facilita a criação de comunidades de aprendizagem inclusivas.</li>
+  </ul>
+</li>
 
-### **MOOCs**
-- **Acessibilidade global:** Permitem que milhões de pessoas acedam a cursos de instituições de renome.
-- **Flexibilidade:** Possibilitam que os aprendentes estudem ao seu ritmo.
-- **Custo reduzido ou gratuito:** Tornam a educação mais acessível financeiramente.
+<li>MOOCs:
+  <ul>
+  <li>Acessibilidade global: Permitem que milhões de pessoas acedam a cursos de instituições de renome.</li>
+  <li>Flexibilidade: Possibilitam que os aprendentes estudem ao seu ritmo.</li>
+  <li>Custo reduzido ou gratuito: Tornam a educação mais acessível financeiramente.</li>
+  </ul>
+</li>
 
-### **Comparação**
-- A Educomunicação tem um impacto mais profundo na formação de cidadãos críticos e participativos, enquanto os MOOCs democratizam o acesso a conhecimentos especializados.
+<li>Comparação:
+  <ul>
+  <li>A Educomunicação tem um impacto mais profundo na formação de cidadãos críticos e participativos, enquanto os MOOCs democratizam o acesso a conhecimentos especializados.</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
 ## 4. Desafios
 
-### **Educomunicação**
-- Exige formação de educadores para práticas colaborativas e uso de ferramentas digitais.
-- Enfrenta limitações de infraestrutura tecnológica em regiões menos desenvolvidas.
-- É difícil de escalar devido à sua natureza interativa e personalizada.
+<ul>
+<li>Educomunicação:
+  <ul>
+  <li>Exige formação de educadores para práticas colaborativas e uso de ferramentas digitais.</li>
+  <li>Enfrenta limitações de infraestrutura tecnológica em regiões menos desenvolvidas.</li>
+  <li>É difícil de escalar devido à sua natureza interativa e personalizada.</li>
+  </ul>
+</li>
 
-### **MOOCs**
-- **Alta taxa de abandono:** Muitos participantes não completam os cursos.
-- **Interação limitada:** Especialmente em MOOCs massivos, o feedback personalizado é escasso.
-- **Foco inicial em conteúdos:** Com menor atenção às práticas críticas ou culturais.
+<li>MOOCs:
+  <ul>
+  <li>Alta taxa de abandono: Muitos participantes não completam os cursos.</li>
+  <li>Interação limitada: Especialmente em MOOCs massivos, o feedback personalizado é escasso.</li>
+  <li>Foco inicial em conteúdos: Com menor atenção às práticas críticas ou culturais.</li>
+  </ul>
+</li>
 
-### **Comparação**
-- A Educomunicação enfrenta desafios de escalabilidade, enquanto os MOOCs têm dificuldades em promover o envolvimento e a interação significativa.
+<li>Comparação:
+  <ul>
+  <li>A Educomunicação enfrenta desafios de escalabilidade, enquanto os MOOCs têm dificuldades em promover o envolvimento e a interação significativa.</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
 ## 5. Impacto Social
 
-### **Educomunicação**
-- Dá prioridade à inclusão cultural e social, permitindo que os aprendentes se vejam como agentes ativos no processo de aprendizagem.
-- Valoriza práticas educativas contextualizadas e adaptadas às realidades locais.
+<ul>
+<li>Educomunicação:
+  <ul>
+  <li>Dá prioridade à inclusão cultural e social, permitindo que os aprendentes se vejam como agentes ativos no processo de aprendizagem.</li>
+  <li>Valoriza práticas educativas contextualizadas e adaptadas às realidades locais.</li>
+  </ul>
+</li>
 
-### **MOOCs**
-- Democratizam o acesso ao conhecimento, mas frequentemente refletem uma perspetiva globalizada, às vezes desvinculada de realidades locais.
-- Podem perpetuar desigualdades, uma vez que o acesso à internet de qualidade e o letramento digital são pré-requisitos.
+<li>MOOCs:
+  <ul>
+  <li>Democratizam o acesso ao conhecimento, mas frequentemente refletem uma perspetiva globalizada, às vezes desvinculada de realidades locais.</li>
+  <li>Podem perpetuar desigualdades, uma vez que o acesso à internet de qualidade e o letramento digital são pré-requisitos.</li>
+  </ul>
+</li>
 
-### **Comparação**
-- A Educomunicação tem um impacto social mais profundo em comunidades locais, enquanto os MOOCs têm maior alcance, mas carecem de contextualização.
+<li>Comparação:
+  <ul>
+  <li>A Educomunicação tem um impacto social mais profundo em comunidades locais, enquanto os MOOCs têm maior alcance, mas carecem de contextualização.</li>
+  </ul>
+</li>
+</ul>
 
 ---
 
-## 6. Futuros Caminhos
+<p>Conclusão</p>
 
-- **Educomunicação:** A incorporação de tecnologias emergentes, como IA generativa e plataformas interativas, pode aumentar a sua escalabilidade sem comprometer a essência participativa.
-- **MOOCs:** Modelos híbridos, com maior foco em aprendizagem ativa, interativa e comunitária, podem integrar princípios da Educomunicação para se tornarem mais envolventes.
-
----
-
-## Conclusão
-
-Enquanto o **Paradigma da Educomunicação** privilegia a interação crítica e colaborativa em contextos educacionais mediados pela comunicação, os **MOOCs** são mais voltados para a disseminação em larga escala de conteúdos educacionais. Ambas as abordagens têm pontos fortes e desafios, mas podem complementar-se: os MOOCs poderiam adotar práticas educomunicativas para aumentar a interação e o envolvimento, enquanto a Educomunicação poderia beneficiar-se de estratégias de escalabilidade inspiradas nos MOOCs.
-
-Esta análise demonstra que, ao combinar os melhores elementos de ambos os mundos, é possível transformar a educação para responder melhor às necessidades contemporâneas.
+<p>Enquanto o Paradigma da Educomunicação privilegia a interação crítica e colaborativa em contextos educacionais mediados pela comunicação, os MOOCs são mais voltados para a disseminação em larga escala de conteúdos educacionais. Ambas as abordagens têm pontos fortes e desafios, mas podem complementar-se: os MOOCs poderiam adotar práticas educomunicativas para aumentar a interação e o envolvimento, enquanto a Educomunicação poderia beneficiar-se de estratégias de escalabilidade inspiradas nos MOOCs.</p>
 
 
 </details>
