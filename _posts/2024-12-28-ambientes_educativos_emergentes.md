@@ -1,7 +1,7 @@
 ---
 title: Ambientes Educativos Emergentes
 tags: [Social Media, Internet, Technology, Educação]
-style: fill
+style: border
 color: primary
 description: TODO
 ---
