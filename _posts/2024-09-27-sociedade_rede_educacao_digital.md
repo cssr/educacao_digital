@@ -146,7 +146,7 @@ Este artigo foca-se em três pontos principais:
 <br>
 
 <p>1. Abordagens: Filosofia e Objetivo</p>
-
+<br>
 <ul>
 <li>Educomunicação:
   <ul>
@@ -172,8 +172,8 @@ Este artigo foca-se em três pontos principais:
 
 ---
 
-## 2. Metodologias e Práticas
-
+<p> 2. Metodologias e Práticas</p>
+<br>
 <ul>
 <li>Educomunicação:
   <ul>
@@ -198,8 +198,8 @@ Este artigo foca-se em três pontos principais:
 
 ---
 
-## 3. Vantagens
-
+<p> 3. Vantagens</p>
+<br>
 <ul>
 <li>Educomunicação:
   <ul>
@@ -226,8 +226,8 @@ Este artigo foca-se em três pontos principais:
 
 ---
 
-## 4. Desafios
-
+<p> 4. Desafios</p>
+<br>
 <ul>
 <li>Educomunicação:
   <ul>
@@ -254,8 +254,8 @@ Este artigo foca-se em três pontos principais:
 
 ---
 
-## 5. Impacto Social
-
+<p> 5. Impacto Social</p>
+<br>
 <ul>
 <li>Educomunicação:
   <ul>
@@ -280,6 +280,7 @@ Este artigo foca-se em três pontos principais:
 
 ---
 
+<br>
 <p>Conclusão</p>
 
 <p>Enquanto o Paradigma da Educomunicação privilegia a interação crítica e colaborativa em contextos educacionais mediados pela comunicação, os MOOCs são mais voltados para a disseminação em larga escala de conteúdos educacionais. Ambas as abordagens têm pontos fortes e desafios, mas podem complementar-se: os MOOCs poderiam adotar práticas educomunicativas para aumentar a interação e o envolvimento, enquanto a Educomunicação poderia beneficiar-se de estratégias de escalabilidade inspiradas nos MOOCs.</p>
