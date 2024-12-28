@@ -44,14 +44,14 @@ description: Analisar características da sociedade atual e os processos que aí
 
 <summary> A Realidade Hiperconectada e a Educação Online </summary>
 
-<h3>Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância<h3>
+<h3>Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância</h3>
 
 <br>
 Este artigo tem como premisa dois conceitos principais:
 <br>
 <p>1. Sociedade em rede: A integração das tecnologias digitais está a transformar os paradigmas educacionais, exigindo competências transversais como resolução de problemas e trabalho colaborativo.</p>
 <p>2. Modelos pedagógicos: O Modelo Pedagógico Virtual da Universidade Aberta centra-se no estudante e na interacção flexível em ambientes digitais. O Community Inquiry destaca três elementos fundamentais: presença cognitiva, presença social e presença de ensino.</p>
-___
+---
 
 <h4>Sumários dos resultados:</h4>
 <br>
@@ -73,7 +73,8 @@ ___
 <li> Estudantes demonstraram maior autonomia, organização e coesão dentro dos grupos.</li>
 </ul>
 
-___
+---
+
 <h4>Conclusões:</h4>
 <br>
 <p>As comunidades virtuais de aprendizagem podem fomentar competências-chave, incluindo:</p>
@@ -85,6 +86,7 @@ ___
 <p>O papel do professor evolui de guia para facilitador, enquanto os estudantes assumem liderança em seu processo de aprendizagem.</p>
 <p>O uso de ambientes digitais melhora a motivação, engajamento e estrutura de apoio ao aprendizado.</p>
 <p>O artigo reforça que as comunidades virtuais podem transformar a educação a distância, promovendo não apenas aquisição de conhecimento, mas também habilidades essenciais para o século XXI. Essa abordagem requer mudanças pedagógicas e tecnológicas para criar ecossistemas educacionais mais colaborativos e inclusivos.</p>
+
 </details>
 
 
