@@ -44,15 +44,17 @@ description: Analisar características da sociedade atual e os processos que aí
 
 <summary> A Realidade Hiperconectada e a Educação Online </summary>
 
-## Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância
+<h3>Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância<h3>
 
 <br>
 Este artigo tem como premisa dois conceitos principais:
+<br>
 <p>1. Sociedade em rede: A integração das tecnologias digitais está a transformar os paradigmas educacionais, exigindo competências transversais como resolução de problemas e trabalho colaborativo.</p>
 <p>2. Modelos pedagógicos: O Modelo Pedagógico Virtual da Universidade Aberta centra-se no estudante e na interacção flexível em ambientes digitais. O Community Inquiry destaca três elementos fundamentais: presença cognitiva, presença social e presença de ensino.</p>
+___
 
-
-Sumários dos resultados:
+<h4>Sumários dos resultados:</h4>
+<br>
 <p>1. Primeira actividade:</p>
 <ul>
 <li>Os estudantes realizaram análises estatísticas em fóruns orientados pela docente.</li>
@@ -66,16 +68,23 @@ Sumários dos resultados:
 </ul>
 
 <p>3. Terceira actividade:</p>
+<ul>
+<li>Trabalho em grupo com fóruns dedicados.</li>
+<li> Estudantes demonstraram maior autonomia, organização e coesão dentro dos grupos.</li>
+</ul>
 
-* Trabalho em grupo com fóruns dedicados.
-* Estudantes demonstraram maior autonomia, organização e coesão dentro dos grupos.
-
-
-
-
-
-
-
+___
+<h4>Conclusões:</h4>
+<br>
+<p>As comunidades virtuais de aprendizagem podem fomentar competências-chave, incluindo:</p>
+<ul>
+<li>Comunicação e Colaboração: Promovidas por interações frequentes em fóruns.</li>
+<li>Pensamento Crítico e Criatividade: Estimulados pela resolução de problemas e troca de ideias.</li>
+<li>Autonomia: Observada na crescente responsabilidade dos estudantes no próprio aprendizado.</li>
+</ul>
+<p>O papel do professor evolui de guia para facilitador, enquanto os estudantes assumem liderança em seu processo de aprendizagem.</p>
+<p>O uso de ambientes digitais melhora a motivação, engajamento e estrutura de apoio ao aprendizado.</p>
+<p>O artigo reforça que as comunidades virtuais podem transformar a educação a distância, promovendo não apenas aquisição de conhecimento, mas também habilidades essenciais para o século XXI. Essa abordagem requer mudanças pedagógicas e tecnológicas para criar ecossistemas educacionais mais colaborativos e inclusivos.</p>
 </details>
 
 
