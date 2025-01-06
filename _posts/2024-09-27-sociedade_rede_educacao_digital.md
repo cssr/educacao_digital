@@ -302,14 +302,13 @@ Entre os objetivos, destacam-se o desenvolvimento de microcredenciais para apren
 O documento ainda aponta a importância de desenvolver um Certificado Europeu de Competências Digitais e plataformas interativas para compartilhar recursos educacionais. Essas iniciativas tem como objectivo criar um sistema educativo mais conectado, sustentável e adaptável, ao mesmo tempo em que promovem a equidade e a participação democrática na Europa digital.</p>
 
 <br>
-<ul>
+<p><strong>O Plano de Ação para a Educação Digital (2021-2027)</strong> é um documento estratégico robusto e abrangente, mas, como foi desenvolvido em 2020, alguns avanços recentes na área da <em>Inteligência Artificial (IA)</em> já superaram as expectativas nele previstas. Embora o plano mencione a importância da IA na educação, as rápidas transformações no campo, como o surgimento de <em>IA generativa</em> (e.g., ChatGPT, DALL-E), exigem uma revisão e atualização para manter a sua relevância.</p>
+
+ <p>Abaixo estão os principais pontos a considerar:</p>
+    
+  <ul>
   <li>
-    <p><strong>O Plano de Ação para a Educação Digital (2021-2027)</strong> é um documento estratégico robusto e abrangente, mas, como foi desenvolvido em 2020, alguns avanços recentes na área da <em>Inteligência Artificial (IA)</em> já superaram as expectativas nele previstas. Embora o plano mencione a importância da IA na educação, as rápidas transformações no campo, como o surgimento de <em>IA generativa</em> (e.g., ChatGPT, DALL-E), exigem uma revisão e atualização para manter a sua relevância.</p>
-    <p>Abaixo estão os principais pontos a considerar:</p>
-  </li>
-  
-  <li>
-    <h3>Aspectos Atualizados</h3>
+    <p>Aspectos Atualizados</p>
     <ul>
       <li>
         <p><strong>Reconhecimento do Papel da IA na Educação:</strong> O plano reconhece a IA como uma tecnologia crucial para personalizar a aprendizagem e melhorar a eficácia educacional. Também aborda questões éticas, como privacidade e proteção de dados, que permanecem relevantes.</p>
@@ -324,7 +323,7 @@ O documento ainda aponta a importância de desenvolver um Certificado Europeu de
   </li>
   
   <li>
-    <h3>Lacunas em Relação aos Avanços Atuais</h3>
+    <p>Pontos a considerar em Relação aos Avanços Atuais</p>
     <ul>
       <li>
         <p><strong>IA Generativa e Ferramentas Avançadas:</strong> O plano não contempla o impacto revolucionário de <em>ferramentas de IA generativa</em>, que já estão a transformar a educação, como criação de conteúdos personalizados e tutores virtuais.</p>
@@ -343,34 +342,11 @@ O documento ainda aponta a importância de desenvolver um Certificado Europeu de
       </li>
     </ul>
   </li>
+</ul> 
+ 
   
-  <li>
-    <h3>Sugestões para Atualização</h3>
-    <ul>
-      <li>
-        <p><strong>Inclusão de IA Generativa:</strong> Incorporar diretrizes para o uso de ferramentas de IA generativa, incluindo o impacto na personalização do ensino e na criação de materiais educativos.</p>
-      </li>
-      <li>
-        <p><strong>Regulação Ética Ampliada:</strong> Desenvolver políticas detalhadas sobre privacidade, viés algorítmico e impacto psicológico do uso de IA no contexto escolar.</p>
-      </li>
-      <li>
-        <p><strong>Capacitação Ampliada de Educadores:</strong> Oferecer formação específica para professores sobre o uso eficaz e ético de ferramentas de IA generativa e analítica.</p>
-      </li>
-      <li>
-        <p><strong>Monitorização e Revisão Contínua:</strong> Criar mecanismos para monitorizar os avanços tecnológicos e atualizar o plano regularmente durante o período de 2021 a 2027.</p>
-      </li>
-      <li>
-        <p><strong>Apoio à Investigação e Desenvolvimento:</strong> Incentivar projetos de investigação sobre a aplicação da IA na educação para explorar novas metodologias e práticas pedagógicas.</p>
-      </li>
-    </ul>
-  </li>
+  <p>Embora o <strong>Plano de Ação para a Educação Digital (2021-2027)</strong> continue a ser uma base sólida, a rápida evolução da IA, especialmente a IA generativa, exige revisões e adaptações. Uma atualização estratégica permitirá que a educação europeia permaneça relevante, competitiva e alinhada às transformações tecnológicas e sociais do século XXI.</p>
   
-  <li>
-    <h3>Conclusão</h3>
-    <p>Embora o <strong>Plano de Ação para a Educação Digital (2021-2027)</strong> continue a ser uma base sólida, a rápida evolução da IA, especialmente a IA generativa, exige revisões e adaptações. Uma atualização estratégica permitirá que a educação europeia permaneça relevante, competitiva e alinhada às transformações tecnológicas e sociais do século XXI.</p>
-  </li>
-</ul>
-
 
 
 </details>
