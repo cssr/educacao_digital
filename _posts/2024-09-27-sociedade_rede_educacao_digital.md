@@ -12,8 +12,8 @@ description: Analisar características da sociedade atual e os processos que aí
 
 <summary> Sociedade em Rede e os Novos Desafios da Educação </summary>
 
-## Características da Sociedade em Rede
-
+<h4>Características da Sociedade em Rede</h4>
+<br>
 
 <img src="https://cssr.github.io/educacao_digital/assets/img1.png" alt="Características da Sociedade em Rede" style="width:70%;"/>
 
@@ -26,7 +26,9 @@ description: Analisar características da sociedade atual e os processos que aí
 <p>Em resumo, a sociedade em rede não apenas transformou como interagimos, mas também redefiniu a maneira como nos enxergamos dentro desse fluxo constante de informações, conexões e mudanças. Essa nova realidade exige habilidades de adaptação, pensamento crítico e aprendizagem contínua para que possamos navegar nesse cenário dinâmico e imprevisível.</p>
 
 
-## Impactos Educativos
+<h4> Impactos Educativos </h4>
+
+<br>
 
 <img src="https://cssr.github.io/educacao_digital/assets/img2.png" alt="Impactos Educativos" style="width:70%;"/>
 
@@ -46,7 +48,7 @@ description: Analisar características da sociedade atual e os processos que aí
 <br>
 <br>
 
-<h3>Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância</h3>
+<h4>Comunidades Virtuais de Aprendizagem e Competências-Chave para o Século XXI no Ensino Superior a Distância</h4>
 
 <br>
 Este artigo tem como premisa dois conceitos principais:
@@ -54,9 +56,9 @@ Este artigo tem como premisa dois conceitos principais:
 <p>1. Sociedade em rede: A integração das tecnologias digitais está a transformar os paradigmas educacionais, exigindo competências transversais como resolução de problemas e trabalho colaborativo.</p>
 <p>2. Modelos pedagógicos: O Modelo Pedagógico Virtual da Universidade Aberta centra-se no estudante e na interacção flexível em ambientes digitais. O Community Inquiry destaca três elementos fundamentais: presença cognitiva, presença social e presença de ensino.</p>
 
----
+<br>
 
-<h4>Sumários dos resultados:</h4>
+<h5>Sumários dos resultados:</h5>
 <br>
 <p>1. Primeira actividade:</p>
 <ul>
@@ -76,9 +78,9 @@ Este artigo tem como premisa dois conceitos principais:
 <li> Estudantes demonstraram maior autonomia, organização e coesão dentro dos grupos.</li>
 </ul>
 
----
+<br>
 
-<h4>Conclusões:</h4>
+<h5>Conclusões:</h5>
 <br>
 <p>As comunidades virtuais de aprendizagem podem fomentar competências-chave, incluindo:</p>
 <ul>
@@ -92,7 +94,7 @@ Este artigo tem como premisa dois conceitos principais:
 
 <br>
 <br>
-<h3>Educação OnLIFE: a dimensão ecológica das arquiteturas digitais de aprendizagem</h3>
+<h4>Educação OnLIFE: a dimensão ecológica das arquiteturas digitais de aprendizagem</h4>
 <br>
 Este artigo foca-se em três pontos principais:
 <br>
@@ -114,7 +116,7 @@ Este artigo foca-se em três pontos principais:
 <p>Educação como Transformação: A Educação OnLIFE propõe uma mudança de percepção, superando o dualismo entre offline e online e adotando metodologias que integrem o digital como parte do processo educacional; A aprendizagem torna-se uma construção colaborativa, impulsionada por tecnologias e redes em constante transformação.</p>
 <p>A Educação OnLIFE representa um paradigma emergente que integra tecnologias digitais, sustentabilidade e inovação pedagógica. Essa abordagem requer um repensar profundo da educação, incorporando redes interativas e ecossistemas híbridos que transcendem as práticas tradicionais.</p>
 
-<h4>Considerações:</h4>
+<h5>Considerações:</h5>
 <br>
 <ul>
 <li> Educação Híbrida e Flexível: O conceito de Educação OnLIFE é inovador, mas o foco em práticas conectivas e ecossistemas não contempla suficientemente o papel de aprendizagem móvel, microcertificações e lifelong learning num mundo onde a educação é cada vez mais personalizada e on-demand.</li>
@@ -141,7 +143,7 @@ Este artigo foca-se em três pontos principais:
 
 <br>
 
-<h3> Comparação entre o Paradigma da Educomunicação e os MOOCs </h3>
+<h4> Comparação entre o Paradigma da Educomunicação e os MOOCs </h4>
 
 <br>
 
@@ -170,8 +172,6 @@ Este artigo foca-se em três pontos principais:
 </li>
 </ul>
 
----
-
 <p> 2. Metodologias e Práticas</p>
 <br>
 <ul>
@@ -196,7 +196,6 @@ Este artigo foca-se em três pontos principais:
 </li>
 </ul>
 
----
 
 <p> 3. Vantagens</p>
 <br>
@@ -224,7 +223,6 @@ Este artigo foca-se em três pontos principais:
 </li>
 </ul>
 
----
 
 <p> 4. Desafios</p>
 <br>
@@ -252,7 +250,6 @@ Este artigo foca-se em três pontos principais:
 </li>
 </ul>
 
----
 
 <p> 5. Impacto Social</p>
 <br>
@@ -278,7 +275,6 @@ Este artigo foca-se em três pontos principais:
 </li>
 </ul>
 
----
 
 <br>
 <p>Conclusão</p>
@@ -293,7 +289,7 @@ Este artigo foca-se em três pontos principais:
 <summary> Inovação em Educação Digital </summary>
 
 <br>
-<h3>Plano de Ação para a Educação Digital 2021-2027</h3>
+<h4>Plano de Ação para a Educação Digital 2021-2027</h4>
 <br>
 
 <p>O Plano de Ação para a Educação Digital (2021-2027) da Comissão Europeia visa transformar os sistemas de educação e formação para a era digital, em resposta às crescentes exigências tecnológicas e às lições aprendidas com a pandemia de Covid-19. O documento enfatiza a necessidade de integrar tecnologias digitais de forma estratégica, garantindo inclusão, qualidade e acessibilidade para todos os cidadãos, com especial atenção às desigualdades digitais que persistem em diferentes contextos socioeconômicos.
@@ -302,7 +298,7 @@ Entre os objetivos, destacam-se o desenvolvimento de microcredenciais para apren
 O documento ainda aponta a importância de desenvolver um Certificado Europeu de Competências Digitais e plataformas interativas para compartilhar recursos educacionais. Essas iniciativas tem como objectivo criar um sistema educativo mais conectado, sustentável e adaptável, ao mesmo tempo em que promovem a equidade e a participação democrática na Europa digital.</p>
 
 <br>
-<p><strong>O Plano de Ação para a Educação Digital (2021-2027)</strong> é um documento estratégico robusto e abrangente, mas, como foi desenvolvido em 2020, alguns avanços recentes na área da <em>Inteligência Artificial (IA)</em> já superaram as expectativas nele previstas. Embora o plano mencione a importância da IA na educação, as rápidas transformações no campo, como o surgimento de <em>IA generativa</em> (e.g., ChatGPT, DALL-E), exigem uma revisão e atualização para manter a sua relevância.</p>
+<p>O Plano de Ação para a Educação Digital (2021-2027) é um documento estratégico robusto e abrangente, mas, como foi desenvolvido em 2020, alguns avanços recentes na área da Inteligência Artificial (IA) já superaram as expectativas nele previstas. Embora o plano mencione a importância da IA na educação, as rápidas transformações no campo, como o surgimento de IA generativa (e.g., ChatGPT, DALL-E), exigem uma revisão e atualização para manter a sua relevância.</p>
 
  <p>Abaixo estão os principais pontos a considerar:</p>
     
@@ -311,13 +307,13 @@ O documento ainda aponta a importância de desenvolver um Certificado Europeu de
     <p>Aspectos Atualizados</p>
     <ul>
       <li>
-        <p><strong>Reconhecimento do Papel da IA na Educação:</strong> O plano reconhece a IA como uma tecnologia crucial para personalizar a aprendizagem e melhorar a eficácia educacional. Também aborda questões éticas, como privacidade e proteção de dados, que permanecem relevantes.</p>
+        <p>Reconhecimento do Papel da IA na Educação: O plano reconhece a IA como uma tecnologia crucial para personalizar a aprendizagem e melhorar a eficácia educacional. Também aborda questões éticas, como privacidade e proteção de dados, que permanecem relevantes.</p>
       </li>
       <li>
-        <p><strong>Importância das Competências Digitais:</strong> A ênfase no desenvolvimento de competências digitais avançadas, incluindo IA e literacia de dados, está alinhada com as exigências atuais do mercado de trabalho e da sociedade.</p>
+        <p>Importância das Competências Digitais: A ênfase no desenvolvimento de competências digitais avançadas, incluindo IA e literacia de dados, está alinhada com as exigências atuais do mercado de trabalho e da sociedade.</p>
       </li>
       <li>
-        <p><strong>Educação Inclusiva e Ética:</strong> O plano sublinha a necessidade de garantir que a IA seja utilizada de forma ética e acessível, especialmente para populações desfavorecidas.</p>
+        <p>Educação Inclusiva e Ética: O plano sublinha a necessidade de garantir que a IA seja utilizada de forma ética e acessível, especialmente para populações desfavorecidas.</p>
       </li>
     </ul>
   </li>
@@ -326,26 +322,26 @@ O documento ainda aponta a importância de desenvolver um Certificado Europeu de
     <p>Pontos a considerar em Relação aos Avanços Atuais</p>
     <ul>
       <li>
-        <p><strong>IA Generativa e Ferramentas Avançadas:</strong> O plano não contempla o impacto revolucionário de <em>ferramentas de IA generativa</em>, que já estão a transformar a educação, como criação de conteúdos personalizados e tutores virtuais.</p>
+        <p>IA Generativa e Ferramentas Avançadas: O plano não contempla o impacto revolucionário de <em>ferramentas de IA generativa</em>, que já estão a transformar a educação, como criação de conteúdos personalizados e tutores virtuais.</p>
       </li>
       <li>
-        <p><strong>Integração Direta da IA no Ensino:</strong> Ferramentas como tutores virtuais, análise de aprendizagem em tempo real e IA para gestão de sala de aula não são abordadas com o detalhe necessário.</p>
+        <p>Integração Direta da IA no Ensino: Ferramentas como tutores virtuais, análise de aprendizagem em tempo real e IA para gestão de sala de aula não são abordadas com o detalhe necessário.</p>
       </li>
       <li>
-        <p><strong>Desafios Éticos Recentes:</strong> Apesar de mencionar diretrizes éticas, o plano não prevê problemas mais complexos, como o viés algorítmico ou a dependência excessiva de sistemas automatizados.</p>
+        <p>Desafios Éticos Recentes: Apesar de mencionar diretrizes éticas, o plano não prevê problemas mais complexos, como o viés algorítmico ou a dependência excessiva de sistemas automatizados.</p>
       </li>
       <li>
-        <p><strong>Impacto no Papel do Educador:</strong> As mudanças no papel do professor, como mediador ou criador de conteúdos com o auxílio da IA, não são exploradas suficientemente.</p>
+        <p>Impacto no Papel do Educador: As mudanças no papel do professor, como mediador ou criador de conteúdos com o auxílio da IA, não são exploradas suficientemente.</p>
       </li>
       <li>
-        <p><strong>Avaliação e Credibilidade:</strong> O uso da IA em avaliação automática de estudantes levanta questões sobre equidade e fiabilidade, que não são tratadas no plano.</p>
+        <p>Avaliação e Credibilidade: O uso da IA em avaliação automática de estudantes levanta questões sobre equidade e fiabilidade, que não são tratadas no plano.</p>
       </li>
     </ul>
   </li>
 </ul> 
  
   
-  <p>Embora o <strong>Plano de Ação para a Educação Digital (2021-2027)</strong> continue a ser uma base sólida, a rápida evolução da IA, especialmente a IA generativa, exige revisões e adaptações. Uma atualização estratégica permitirá que a educação europeia permaneça relevante, competitiva e alinhada às transformações tecnológicas e sociais do século XXI.</p>
+  <p>Embora o Plano de Ação para a Educação Digital (2021-2027) continue a ser uma base sólida, a rápida evolução da IA, especialmente a IA generativa, exige revisões e adaptações. Uma atualização estratégica permitirá que a educação europeia permaneça relevante, competitiva e alinhada às transformações tecnológicas e sociais do século XXI.</p>
   
 
 
