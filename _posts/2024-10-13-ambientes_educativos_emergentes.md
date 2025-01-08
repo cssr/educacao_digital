@@ -11,6 +11,36 @@ description: TODO
 <details>
 
 <summary> Competências Digitais </summary>
+<br>
+
+<h4>A importância das competências digitais na educação</h4>
+<br>
+<p>
+O documento destaca a crescente relevância das competências digitais na educação, essenciais para preparar cidadãos e profissionais para um mundo em que o digital desempenha um papel central. Argumenta que as escolas são o espaço ideal para desenvolver estas competências desde cedo, promovendo não apenas o domínio de ferramentas tecnológicas, mas também uma abordagem crítica e ética ao seu uso. 
+O foco está na necessidade de capacitar professores e estudantes para utilizarem as tecnologias digitais de forma a enriquecer o processo educativo e promover uma aprendizagem inclusiva, inovadora e eficaz. Entre os desafios discutidos incluem-se a rápida evolução tecnológica, a necessidade de formação contínua para os professores e a adaptação das estratégias pedagógicas às necessidades dos estudantes. O documento sugere a adoção de referenciais de competências digitais, como o DigCompEdu, para orientar professores e alunos no uso crítico e inovador do digital.
+</p>
+
+<p>Pontos Principais:</p>
+<ul>
+    <li>
+    <p>Definição e Relevância das Competências Digitais: A integração do digital em todas as áreas da vida, trabalho e educação requer que os cidadãos estejam preparados para serem críticos, criativos e colaborativos num mundo digital.</p>
+    </li>
+    <li>
+    <p>Escola como Espaço de Capacitação: As escolas devem ser o local onde as competências digitais são introduzidas e desenvolvidas. Professores e estudantes precisam de habilidades que vão além do uso instrumental de tecnologias, incluindo análise crítica e inovação.</p>
+    </li>
+    <li>
+    <p>Desafios para os Professores: Enfrentar a constante evolução tecnológica, integrar estratégias pedagógicas inovadoras e superar desigualdades no acesso às tecnologias por parte dos estudantes.</p>
+    </li>
+    <li>
+    <p>DigCompEdu como Referencial: Este framework organiza as competências digitais docentes em seis áreas, promovendo a integração eficaz de tecnologias nos processos educativos. Ferramentas como o DigCompEdu CheckIn ajudam os professores a avaliar e melhorar as suas competências.</p>
+    </li>
+    <li>
+    <p>Boas Práticas na Educação Digital: Encorajar o uso de ferramentas digitais para promover colaboração, criatividade e resolução de problemas, criando ecossistemas educativos eficazes.</p>
+    </li>
+    <li>
+    <p>Adaptação às Necessidades dos Estudantes: Os professores devem ser flexíveis e sensíveis às realidades dos alunos, garantindo inclusão e acesso no uso das tecnologias.</p>
+    </li>
+</ul>
 
 </details>
 
