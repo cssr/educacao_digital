@@ -47,6 +47,39 @@ O foco está na necessidade de capacitar professores e estudantes para utilizare
 <details>
 
 <summary> Conteúdos e Recursos Educativos Digitais </summary>
+<br>
+<h4>Integrando Tecnologias e Práticas Pedagógicas </h4>
+<br>
+<p>
+O documento aborda a integração de tecnologias digitais nas práticas pedagógicas, destacando a importância de associar conteúdos educativos e ferramentas digitais para promover uma aprendizagem mais significativa e adaptada às necessidades do século XXI. A ideia central é que o uso de tecnologias não deve ser apenas suporte, mas um elemento ativo que transforma os processos de ensino e aprendizagem, promovendo metodologias ativas e construtivistas.
+
+Enfatiza-se o papel do professor como mediador e guia, responsável por selecionar estratégias adequadas às necessidades dos alunos, avaliar criticamente os recursos disponíveis e fomentar a colaboração e a criação de conhecimento. O texto também explora a noção de "produtilizadores" ou "makers", indicando que professores e estudantes devem não só consumir recursos, mas também participar ativamente na produção de conteúdos digitais.
+</p>
+
+<ul>
+  <li>
+    <p>Integração de Tecnologias na Educação: O digital deve ser mais do que um suporte, transformando práticas pedagógicas e criando ambientes de aprendizagem enriquecidos.</p>
+  </li>
+  <li>
+    <p>Papel do Professor: O docente é um mediador, responsável por guiar os alunos, selecionar estratégias, avaliar recursos digitais e criar experiências de aprendizagem colaborativa e crítica.</p>
+  </li>
+  <li>
+    <p>Aprendizagem Ativa e Construtivista: Tecnologias devem fomentar o envolvimento dos estudantes na construção do conhecimento, ampliando a aprendizagem para além da sala de aula.</p>
+  </li>
+  <li>
+    <p>Utilização Crítica de Recursos Digitais: Professores e alunos devem avaliar e validar os recursos digitais, garantindo qualidade e relevância pedagógica.</p>
+  </li>
+  <li>
+    <p>Cultura Maker e Produtilizadores: Professores e estudantes devem participar ativamente na criação de conteúdos digitais, promovendo uma cultura participativa e colaborativa.</p>
+  </li>
+  <li>
+    <p>Personalização da Aprendizagem: Recursos digitais devem permitir a personalização, adaptando-se ao ritmo, às necessidades e aos interesses dos alunos.</p>
+  </li>
+  <li>
+    <p>Educação como Ecossistema Digital: A educação deve ser concebida como um ecossistema digital aberto, promovendo colaboração, conectividade e aprendizagem contínua.</p>
+  </li>
+</ul>
+
 
 </details>
 
