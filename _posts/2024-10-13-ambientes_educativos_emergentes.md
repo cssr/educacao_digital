@@ -80,6 +80,49 @@ Enfatiza-se o papel do professor como mediador e guia, responsável por selecion
   </li>
 </ul>
 
+ <h4>Prós e Contras do Uso de Realidade Virtual na Sala de Aula</h4>
+    <p>A realidade virtual (RV) é uma ferramenta inovadora que pode transformar a educação, oferecendo experiências imersivas e interativas. No entanto, o seu uso na sala de aula apresenta vantagens e desafios que devem ser cuidadosamente avaliados.</p>
+
+ <li>
+    <p>Prós</p>
+    <ul>
+      <li>
+        <p>Experiências Imersivas e Engajantes: A RV permite aos alunos explorar ambientes inacessíveis no mundo real, como viagens ao passado ou simulações científicas. A interação imersiva aumenta a motivação e o interesse dos alunos.</p>
+      </li>
+      <li>
+        <p>Aprendizagem Prática e Contextualizada: Proporciona simulações seguras para aprender habilidades práticas, como cirurgias ou operações técnicas, sem riscos reais. Facilita a aplicação de conhecimentos em cenários concretos.</p>
+      </li>
+      <li>
+        <p>Inclusão de Estilos de Aprendizagem Diversos: Atende a diferentes estilos de aprendizagem, beneficiando especialmente alunos que preferem estímulos visuais e experiências interativas.</p>
+      </li>
+      <li>
+        <p>Desenvolvimento de Competências do Século XXI: Promove competências como colaboração, resolução de problemas e pensamento crítico através de cenários virtuais.</p>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <p>Contras</p>
+    <ul>
+      <li>
+        <p>Custos Elevados: A implementação de tecnologia de RV, incluindo equipamentos e conteúdos, pode ser dispendiosa, dificultando a sua adoção por escolas com recursos limitados.</p>
+      </li>
+      <li>
+        <p>Acessibilidade e Inclusão: Nem todos os alunos têm as mesmas condições físicas ou sensoriais para utilizar os equipamentos de RV, levantando questões de equidade.</p>
+      </li>
+      <li>
+        <p>Dependência Tecnológica: Problemas técnicos, como falhas de software ou hardware, podem interromper o processo de aprendizagem. Além disso, os professores precisam de formação específica para utilizar estas ferramentas.</p>
+      </li>
+      <li>
+        <p>Riscos de Saúde e Bem-Estar: O uso prolongado pode causar cansaço visual, tonturas ou náuseas. A imersão excessiva também pode levar à desconexão com o ambiente real.</p>
+      </li>
+      <li>
+        <p>Qualidade e Adequação dos Conteúdos: Ainda existem limitações no desenvolvimento de conteúdos educativos alinhados aos currículos e de alta qualidade.</p>
+      </li>
+    </ul>
+  </li>
+
+  <p>A realidade virtual tem um enorme potencial para transformar a educação, oferecendo experiências inovadoras e práticas. No entanto, a sua implementação exige um planeamento cuidadoso para garantir acessibilidade, formação adequada e equilíbrio entre tecnologia e pedagogia. Com a superação dos desafios, a RV pode tornar-se uma poderosa aliada na preparação dos alunos para o futuro.</p>
 
 </details>
 

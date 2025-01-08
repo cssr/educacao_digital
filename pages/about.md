@@ -12,19 +12,19 @@ Cláudia Sevivas também participou em colaborações artísticas interdisciplin
 Alguns destaques dessas colaborações incluem:
 
 ConsonancIA @ Champalimaud é uma instalação imersiva que apresenta uma experiência que perturba o espaço de onde retiramos respostas a essa questão e que colocará os visitantes na intersecção entre a inteligência das máquinas e a expressão humana. O projeto é uma colaboração com Eric Lacosse, Filipe Mendes, Leonardo Leitão, Mariana Duarte e Rui Rodrigues. 
-https://www.fchampalimaud.org/metamersion-healing-algorithms
+<p>https://www.fchampalimaud.org/metamersion-healing-algorithms</p>
 
 Adicionalmente, o seu trabalho “Existo” foi reconhecido como vencedor do 2º lugar do prémio arquivo.pt. Este projeto analisa criticamente a representação e visibilidade dos artistas portugueses nos media, lançando luz sobre o discurso cultural e identitário. 
-http://www.existo.pt/#/home
+<p>http://www.existo.pt/#/home</p>
 
 Palestras:
 Encountering New Bodily Propositions: Humans & AI
 Hidden Layers, AI & Design Conference, June 12-15 2024. Koln International School of Design
-https://hiddenlayers.de
+<p>https://hiddenlayers.de</p>
 
 Encountering New Bodily Propositions: Humans & AI
 Laboratory of Robotics and Engineering Systems (LARSyS) 2024 Annual Meeting
-https://groups.tecnico.ulisboa.pt/~larsys.daemon/2024-larsys-annual-meeting/
+<p>https://groups.tecnico.ulisboa.pt/~larsys.daemon/2024-larsys-annual-meeting/</p>
 
 Bodily Futures: Dance & AI
 Festival MATE: Music, Art, Technology, Education, 19-22 de Outubro. Convento São Francisco, Coimbra
