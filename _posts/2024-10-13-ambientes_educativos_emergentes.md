@@ -1,6 +1,6 @@
 ---
 title: Ambientes Educativos Emergentes
-tags: [Social Media, Internet, Technology, Educação]
+tags: [Competências Digitais, Produtilizadores, Makers, Technologia, Realidade Virtual]
 style: border
 color: primary
 description: TODO

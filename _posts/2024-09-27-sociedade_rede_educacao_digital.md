@@ -1,6 +1,6 @@
 ---
 title: Sociedade em Rede e Educação Digital
-tags: [Social Media, Internet, Technology, Educação]
+tags: [Social Media, Internet, Sociedade em Rede, Tecnologia, Comunidades Virtuais, Educomunicaçao, Educação Digital]
 style: 
 color: 
 description: Analisar características da sociedade atual e os processos que aí imbricam, ancoradas, sobretudo, na análise de Manuel Castells, a qual não só procura  dar conta das mudanças sociais ocorridas no final do século XX, como também pretende analisar os desafios que as referidas mudanças implicam a nível da criação de novos ecossistemas educacionais.
