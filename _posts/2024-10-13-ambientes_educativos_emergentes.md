@@ -131,5 +131,67 @@ Enfatiza-se o papel do professor como mediador e guia, responsável por selecion
 
 <summary> Tecnologias Interactivas da Web Social para a Criação de Ambientes Educativos </summary>
 
+<br>
+<h4>Potencialidades do Software Social na Educação </h4>
+<br>
+<p>
+O documento explora como o software social e as redes sociais podem transformar a educação, promovendo aprendizagens ativas, colaborativas e conectadas. Ressalta-se que estas ferramentas, amplamente utilizadas pelos estudantes em contextos informais, têm o potencial de ser integradas ao ambiente educativo, promovendo a construção de comunidades virtuais de aprendizagem. Através de aplicações práticas, as redes sociais podem motivar alunos, facilitar a partilha de ideias e desenvolver competências essenciais para o século XXI, como comunicação, colaboração e pensamento crítico.
+
+Apesar dos benefícios, o texto também destaca os desafios associados ao uso educativo de redes sociais, como questões de segurança digital, privacidade e ética. Para aproveitar o potencial dessas ferramentas, professores devem adotar práticas pedagógicas que utilizem o digital de forma responsável, estruturada e reflexiva, integrando tecnologias familiares aos estudantes para enriquecer o processo educativo.
+</p>
+
+<ul>
+  <li>
+    <p>Potencialidades das Redes e Software Social</p>
+    <ul>
+      <li>
+        <p>Promoção de Aprendizagens Ativas: As redes sociais facilitam a participação ativa dos alunos, tornando o aprendizado mais dinâmico e colaborativo.</p>
+      </li>
+      <li>
+        <p>Construção de Comunidades Virtuais de Aprendizagem: Estas ferramentas criam espaços para debates, partilha de ideias e construção coletiva de conhecimento.</p>
+      </li>
+      <li>
+        <p>Conexão e Diversidade: Permitem interações síncronas e assíncronas entre pessoas de diferentes origens culturais, enriquecendo o processo educativo.</p>
+      </li>
+      <li>
+        <p>Motivação e Engajamento: Recursos familiares aos alunos aumentam a motivação, tornando as atividades educativas mais atrativas.</p>
+      </li>
+      <li>
+        <p>Desenvolvimento de Competências do Século XXI: Ferramentas digitais promovem comunicação, pensamento crítico e colaboração em ambientes educacionais.</p>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <p>Desafios no Uso Educativo</p>
+    <ul>
+      <li>
+        <p>Segurança e Privacidade: Professores devem orientar os alunos sobre práticas seguras e responsáveis nas interações online.</p>
+      </li>
+      <li>
+        <p>Dependência Digital: O uso excessivo de redes sociais pode gerar distrações e reduzir a capacidade de foco dos alunos.</p>
+      </li>
+      <li>
+        <p>Planeamento e Avaliação: É necessário integrar as redes sociais de forma estratégica, alinhando os objetivos pedagógicos às práticas digitais.</p>
+      </li>
+    </ul>
+  </li>
+
+  <li>
+    <p>Recomendações para Professores</p>
+    <ul>
+      <li>
+        <p>Planeamento Pedagógico: Estruturar atividades que utilizem redes sociais de forma crítica e significativa.</p>
+      </li>
+      <li>
+        <p>Orientação Ética: Promover cidadania digital, respeito pela diversidade e avaliação de fontes de informação.</p>
+      </li>
+      <li>
+        <p>Desenvolvimento de Competências: Capacitar os alunos para usar ferramentas digitais como parte de sua formação académica e futura carreira.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 </details>
 
