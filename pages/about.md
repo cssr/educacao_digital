@@ -21,7 +21,7 @@ Adicionalmente, o seu trabalho [Existo](https://www.existo.pt/#/home 'Existo') f
 <br>
 <strong>Palestras:</strong>
 <br>
-Encountering New Bodily Propositions: Humans & AI
+Encountering New Bodily Propositions: Humans & AI<br>
 [Hidden Layers](https://hiddenlayers.de 'Hidden Layers'), AI & Design Conference, June 12-15 2024. Koln International School of Design
 
 Encountering New Bodily Propositions: Humans & AI
