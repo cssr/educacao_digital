@@ -3,7 +3,7 @@ title: Ambientes Educativos Emergentes
 tags: [Competências Digitais, Produtilizadores, Makers, Technologia, Realidade Virtual]
 style: border
 color: primary
-description: TODO
+description: As competências digitais são essenciais para a educação no século XXI, exigindo das escolas a capacitação de professores e alunos para o uso crítico e ético da tecnologia. Estas competências devem ir além do domínio técnico, promovendo inovação e aprendizagem inclusiva. O referencial DigCompEdu orienta a integração eficaz das tecnologias no ensino, destacando a importância de estratégias pedagógicas adaptadas às necessidades dos estudantes e aos desafios da evolução tecnológica.
 ---
 
 
