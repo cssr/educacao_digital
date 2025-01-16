@@ -28,9 +28,9 @@ Encountering New Bodily Propositions: Humans & AI
 [Laboratory of Robotics and Engineering Systems (LARSyS) 2024 Annual Meeting](https://groups.tecnico.ulisboa.pt/~larsys.daemon/2024-larsys-annual-meeting/ 'LarSYS Annual Meeting')
 
 
-Bodily Futures: Dance & AI
+Bodily Futures: Dance & AI<br>
 [Festival MATE](https://www.matefestival.com/candidaturas/bodily-futures-dance-and-ai/ 'Festival MATE'): Music, Art, Technology, Education, 19-22 de Outubro. Convento São Francisco, Coimbra
 
-Bodily Futures: Dance & AI
+Bodily Futures: Dance & AI<br>
 [Pedra Dura](https://www.festivalpedradura.com/eventos-eng/bodily-futures-dance-and-ai 'Festival MATE'), Festival de dança do Algarve, 9 de Novembro, Lagos.
 
