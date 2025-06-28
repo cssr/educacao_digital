@@ -74,7 +74,24 @@ Explora-se o conceito de Ecossistemas de Aprendizagem Digitais, onde as salas de
 <details>
 
 <summary> Actividades de Aprendizagem Digitais </summary>
+<p> O livro <em>"E-tivities: The Key to Active Online Learning"</em>, de Gilly Salmon, propõe um modelo estruturado para promover a aprendizagem activa online através de actividades assíncronas e colaborativas. As e-tivities são definidas como tarefas educativas motivadoras, conduzidas por um e-moderador, que visam fomentar a interação escrita entre os participantes. O modelo proposto organiza-se em cinco etapas progressivas que guiam o estudante da fase de acesso inicial até à autonomia na construção do conhecimento. </p> 
+<p> Apesar de ser um guia prático com exemplos úteis, a obra é criticada pela ausência de fundamentação teórica sólida e pela falta de clareza conceptual. No entanto, continua a ser uma referência importante para quem pretende desenhar experiências de aprendizagem online baseadas na interação e no envolvimento ativo dos participantes. </p> 
+<ul> 
+    <li>    
+    <p><strong>Definição de E-tivities:</strong> Atividades online motivadoras, conduzidas por e-moderadores, baseadas em mensagens escritas e interação assíncrona.</p></li> 
+    <li><p><strong>Características principais:</strong> São fáceis de implementar, pouco dispendiosas, focadas na colaboração e adaptáveis a vários contextos educativos.</p></li> 
+    <li><p><strong>Modelo das Cinco Etapas:</strong></p> 
+<ul> <li><p><strong>Etapa 1 – Acesso e motivação:</strong> Apoio técnico e motivacional inicial para facilitar a entrada no ambiente virtual.</p></li> 
+    <li><p><strong>Etapa 2 – Socialização online:</strong> Criação de laços sociais e microcomunidades entre os participantes.</p></li> 
+    <li><p><strong>Etapa 3 – Troca de informação:</strong> Partilha de conhecimentos e recursos de forma colaborativa.</p></li> 
+    <li><p><strong>Etapa 4 – Construção de conhecimento:</strong> Desenvolvimento de pensamento crítico e reflexão através da interação.</p></li> 
+    <li><p><strong>Etapa 5 – Desenvolvimento:</strong> Autonomia na aprendizagem, autorreflexão e aplicação prática do conhecimento.</p></li> 
+</ul> 
+</li> 
 
+<p>Aspectos críticos: Falta de enquadramento teórico, ausência de definições rigorosas e fracas transições entre capítulos.</p> 
+<p>Utilidade prática: Útil para professores e formadores que pretendem estruturar e dinamizar atividades online com foco na participação ativa dos alunos.</p> 
+</ul>
 </details>
 
 
