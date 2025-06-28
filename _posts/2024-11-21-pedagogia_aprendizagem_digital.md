@@ -98,6 +98,65 @@ Explora-se o conceito de Ecossistemas de Aprendizagem Digitais, onde as salas de
 <details>
 
 <summary> Planificação de Actividades de Aprendizagem Digitais </summary>
+<p> O artigo <em>“O TPACK e a taxonomia dos tipos de atividades de aprendizagem: frameworks para integração da tecnologia na educação”</em> propõe uma abordagem estruturada e reflexiva para integrar tecnologias digitais em contextos educativos. O foco principal recai sobre dois modelos fundamentais: o modelo TPACK (Technological Pedagogical Content Knowledge), que ajuda a articular de forma equilibrada o conhecimento do conteúdo, a pedagogia e as tecnologias; e a <strong>Taxonomia dos Tipos de Atividades de Aprendizagem</strong>, que categoriza atividades com base nos seus objetivos pedagógicos. </p> <p> Complementarmente, o artigo <em>“Desenho de atividades de aprendizagem baseado no conceito de aprender com tecnologias”</em> reforça a necessidade de uma mudança de paradigma, onde as tecnologias não são apenas ferramentas de apoio, mas instrumentos ativos de construção de conhecimento. Neste sentido, o desenho de atividades deve promover autonomia, colaboração e envolvimento ativo dos estudantes, incentivando-os a pensar criticamente com as tecnologias, e não apenas a usá-las passivamente. </p> <p> Ambos os textos defendem uma prática docente intencional, fundamentada em modelos teóricos robustos e suportada por metodologias de design educacional, como a Investigação Baseada em Design (<em>Design-Based Research</em>), permitindo testar, adaptar e melhorar continuamente as propostas pedagógicas em contextos reais. Os materiais também sugerem o uso de guias práticos e modelos de planeamento que ajudem os professores a conceber experiências de aprendizagem mais ricas, eficazes e tecnologicamente integradas. </p>
+
+<ul>
+  <li>
+    <p><strong>TPACK (Technological Pedagogical Content Knowledge):</strong> Modelo que integra três domínios de conhecimento essenciais — tecnológico, pedagógico e do conteúdo — permitindo uma articulação eficaz e reflexiva no uso da tecnologia em sala de aula.</p>
+  </li>
+  
+  <li>
+    <p><strong>Taxonomia dos Tipos de Atividades de Aprendizagem:</strong> Classificação que ajuda os professores a escolher tecnologias de acordo com o tipo de aprendizagem desejada: investigação, colaboração, prática, metacognição, entre outros.</p>
+  </li>
+  
+  <li>
+    <p><strong>Aprender com Tecnologias:</strong> O foco deve estar em promover competências cognitivas e colaborativas usando tecnologia como ferramenta de pensamento e não apenas como meio de entrega de conteúdos.</p>
+  </li>
+  
+  <li>
+    <p><strong>Guião para desenho de atividades:</strong> Sugestão de estrutura com elementos como:
+      <ul>
+        <li><p>Nome e descrição da atividade</p></li>
+        <li><p>Objetivos de aprendizagem</p></li>
+        <li><p>Ferramentas tecnológicas utilizadas</p></li>
+        <li><p>Etapas ou sequência da atividade</p></li>
+        <li><p>Dicas práticas para implementação</p></li>
+        <li><p>Preocupações com a segurança e ética digital</p></li>
+      </ul>
+    </p>
+  </li>
+  
+  <li>
+    <p><strong>Modelo Dialógico de Laurillard:</strong> Quatro elementos chave para analisar o potencial pedagógico de uma atividade com tecnologias:
+      <ul>
+        <li><p><strong>Discursivo:</strong> Interação entre professor e aluno (comunicação e diálogo)</p></li>
+        <li><p><strong>Adaptativo:</strong> Resposta do sistema ou do professor às ações do aluno</p></li>
+        <li><p><strong>Interativo:</strong> Manipulação ativa de ferramentas e conteúdos pelo aluno</p></li>
+        <li><p><strong>Reflexivo:</strong> Oportunidade para pensar criticamente sobre o que se está a aprender</p></li>
+      </ul>
+    </p>
+  </li>
+  
+  <li>
+    <p><strong>Design-Based Research (DBR):</strong> Metodologia iterativa que envolve planeamento, implementação, avaliação e reformulação de atividades pedagógicas com base em evidências práticas e teóricas.</p>
+  </li>
+
+  <li>
+    <p><strong>Metainformação:</strong> Recomenda-se que cada atividade desenhada inclua também dados como:
+      <ul>
+        <li><p>Público-alvo</p></li>
+        <li><p>Duração</p></li>
+        <li><p>Nível de dificuldade</p></li>
+        <li><p>Competências desenvolvidas</p></li>
+      </ul>
+    </p>
+  </li>
+
+  <li>
+    <p><strong>Enquadramento pedagógico:</strong> A seleção das tecnologias deve ser sempre subordinada às finalidades educativas e não o contrário. O pedagógico vem primeiro, o tecnológico é um meio.</p>
+  </li>
+</ul>
+
 
 </details>
 
