@@ -3,7 +3,7 @@ title: Pedagogia e Aprendizagem Digital
 tags: [Social Media, Internet, Technology, Educação]
 style: fill
 color: secondary
-description: TODO
+description: Esta secção explora a importância de repensar os modelos pedagógicos na transição para ambientes de aprendizagem virtuais. Sublinha-se que o ensino online exige estratégias próprias, que promovam a participação ativa, a colaboração entre pares e a construção conjunta do conhecimento. Vários modelos teóricos são apresentados, como o Community of Inquiry, o modelo de e-Moderating e o de Henri e Basque, todos centrados na criação de experiências educativas envolventes, com forte presença social e apoio pedagógico. A principal mensagem é que a educação digital eficaz requer planeamento intencional, mediação ativa do professor e ambientes que favoreçam a interação e a autonomia dos estudantes.
 ---
 
 
