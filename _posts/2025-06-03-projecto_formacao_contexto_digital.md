@@ -3,7 +3,7 @@ title: Projecto de Formação em Contexto Digital
 tags: [Projecto, ADDIE, Technology, Educação]
 style: fill
 color: light
-description: A abordagem ADDIE é um modelo de design instrucional que estrutura o desenvolvimento de projetos formativos em cinco fases sequenciais: Análise, Desenho, Desenvolvimento, Implementação e Avaliação. Este modelo oferece uma estrutura sistemática e iterativa para criar experiências de aprendizagem eficazes, começando pela identificação das necessidades dos formandos e culminando na avaliação dos resultados de aprendizagem. A sua flexibilidade permite ajustar cada fase às especificidades do contexto educativo, assegurando a coerência entre objetivos, conteúdos, métodos e formas de avaliação.
+description: A abordagem ADDIE é um modelo de design instrucional que estrutura o desenvolvimento de projetos formativos em cinco fases sequenciais - Análise, Desenho, Desenvolvimento, Implementação e Avaliação. Este modelo oferece uma estrutura sistemática e iterativa para criar experiências de aprendizagem eficazes, começando pela identificação das necessidades dos formandos e culminando na avaliação dos resultados de aprendizagem. A sua flexibilidade permite ajustar cada fase às especificidades do contexto educativo, assegurando a coerência entre objetivos, conteúdos, métodos e formas de avaliação.
 ---
 
 
