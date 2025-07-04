@@ -3,7 +3,7 @@ title: Tecnologias e Recursos Audiovisuais
 tags: [Social Media, Internet, Technology, Educação]
 style: fill
 color: light
-description: TODO
+description: Esta secção aborda o papel das linguagens e dos recursos audiovisuais no contexto da educação digital, destacando o seu potencial para enriquecer a comunicação pedagógica e tornar a aprendizagem mais significativa. Explora-se a importância do vídeo como recurso educativo, analisando as suas várias funções — informativa, motivadora, ilustrativa, comunicativa e promotora de autoaprendizagem — e a forma como pode ser integrado de forma eficaz nas práticas de ensino. Discutem-se também critérios técnicos e pedagógicos para avaliação de vídeos educativos, bem como estratégias para a sua utilização em e-atividades centradas na desconstrução de imagens em movimento. Paralelamente, são apresentados princípios fundamentais para a construção de questões de escolha múltipla em ambientes digitais, com foco na clareza, pertinência e alinhamento pedagógico. Por fim, é valorizado o portefólio digital como ferramenta de acompanhamento do progresso dos alunos, promovendo reflexão, personalização e documentação das aprendizagens ao longo do percurso formativo.
 ---
 
 
@@ -120,10 +120,4 @@ Os slides descrevem os tipos de portefólio (de aprendizagem, de avaliação, pr
 
 </details>
 
-
-<details>
-
-<summary> Tecnologias para a Criação e Produção de Recursos Audiovisuais </summary>
-
-</details>
 

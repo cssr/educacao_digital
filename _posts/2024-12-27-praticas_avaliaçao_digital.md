@@ -3,7 +3,7 @@ title: Práticas de Avaliação Digital
 tags: [Social Media, Internet, Technology, Educação]
 style: fill
 color: dark
-description: TODO
+description: A secção sobre avaliação digital aborda o seu papel como um processo contínuo, integrado na aprendizagem e potenciado pelas tecnologias digitais. Estas permitem recolher dados variados, acompanhar o progresso dos alunos e adaptar as estratégias pedagógicas em tempo real. A avaliação torna-se mais interativa, personalizada e inclusiva, utilizando ferramentas como quizzes, e-portefólios, rubricas digitais e fóruns. São destacados princípios essenciais como autenticidade, equidade, transparência e feedback contínuo, promovendo práticas avaliativas alinhadas com os objetivos educativos. A avaliação formativa ganha especial relevância, sem deixar de lado a importância da avaliação sumativa. Com o surgimento dos modelos de linguagem como o ChatGPT, surgem novos desafios, nomeadamente a garantia da autoria e da integridade académica. Para responder a estas questões, sugerem-se estratégias como tarefas autênticas, momentos presenciais, avaliações orais e o desenvolvimento de uma literacia ética no uso da inteligência artificial.
 ---
 
 
@@ -77,6 +77,8 @@ Entre os principais desafios actuais, destaca-se a dificuldade em garantir que o
 
 <summary> Recursos de Avaliação Digital e Prácticas de Feedback </summary>
 
+<p>
+No contexto da avaliação digital, os recursos tecnológicos oferecem oportunidades valiosas para diversificar os instrumentos avaliativos e melhorar a qualidade do feedback. Plataformas de gestão de aprendizagem (como o Moodle ou o Canvas) permitem criar testes automatizados com feedback imediato, promover fóruns de reflexão e recolher e-portefólios que documentam o percurso dos alunos. Rubricas digitais são particularmente úteis para tornar os critérios de avaliação mais claros, transparentes e consistentes, ajudando os alunos a compreender onde podem melhorar. Ferramentas de vídeo e áudio permitem incorporar avaliações orais, e o uso de formulários interativos (como o Google Forms ou Mentimeter) facilita a recolha rápida de evidências de aprendizagem. O feedback, por sua vez, deve ser contínuo, específico, construtivo e orientado para o desenvolvimento, podendo assumir diferentes formas — texto, gravações de voz, vídeos personalizados ou devolutivas síncronas — que aumentam o envolvimento do aluno e reforçam a sua autonomia. A avaliação digital, quando bem desenhada, contribui para uma aprendizagem mais significativa, reflexiva e personalizada.</p>
 </details>
 
 
